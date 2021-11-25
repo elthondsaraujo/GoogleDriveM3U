@@ -15,9 +15,9 @@
     <a id="connect">Disconnect</a>
 </nav>
     <div style="line-height:10px">
-    <a href="./index.html"><img id="reader" src="./style/tv.png" width = 90px style='float: left;'/></a>
-    <h1><span class="black"><a href="./index.html">m3u</a></span></h1>
-    <h1><a href="./index.html"><span class="grey">Google</span> <span class="grey-light">Drive</span></a></h1>
+    <a href="./index.php"><img id="reader" src="./style/tv.png" width = 90px style='float: left;'/></a>
+    <h1><span class="black"><a href="./index.php">m3u</a></span></h1>
+    <h1><a href="./index.php"><span class="grey">Google</span> <span class="grey-light">Drive</span></a></h1>
     </div>
         <h2>Directly from the Cloud</h2>
     <br/>
@@ -29,11 +29,11 @@
   <a href="#" id="nextPage" style="display: none;" >Ver más &raquo;</a>
 
     <script type="text/javascript">
-      var CLIENT_ID = '983869916425-495k0u2mf6i377r6c04d1nkleek9qbbj.apps.googleusercontent.com';
+      var CLIENT_ID = '1054956162749-7qi9cm0g9kjvpc1lb0k7mnv03bum22tc.apps.googleusercontent.com';
       var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
       var SCOPES = 'https://www.googleapis.com/auth/drive';
       var pickerApiLoaded = false;
-      var API_KEY = 'AIzaSyBa-rF9qjubzf5GM0I5vI847KeXv-0TS5A';
+      var API_KEY = 'AIzaSyA4JHkRoUFXBSE18VNCclgFcYlTc_IE99A';
       var PATH="https://www.googleapis.com/drive/v3/files/"
       var q="?alt=media&key=";
       var oauthToken;
