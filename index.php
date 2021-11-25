@@ -10,7 +10,7 @@
   </head>
   <body>
     <nav class="topnav">
-    <a id="home" href="./index.html">Home</a> 
+    <a id="home" href="./index.php">Home</a> 
     <a id="login">Log in</a>
     <a id="connect">Disconnect</a>
 </nav>
@@ -32,7 +32,7 @@
       var CLIENT_ID = '1054956162749-7qi9cm0g9kjvpc1lb0k7mnv03bum22tc.apps.googleusercontent.com';
       var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
       var SCOPES = 'https://www.googleapis.com/auth/drive';
-      var pickerApiLoaded = false;
+      var pickerApiLoaded = true;
       var API_KEY = 'AIzaSyA4JHkRoUFXBSE18VNCclgFcYlTc_IE99A';
       var PATH="https://www.googleapis.com/drive/v3/files/"
       var q="?alt=media&key=";
