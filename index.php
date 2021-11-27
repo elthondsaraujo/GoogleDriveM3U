@@ -29,11 +29,11 @@
   <a href="#" id="nextPage" style="display: none;" >Ver más &raquo;</a>
 
     <script type="text/javascript">
-      var CLIENT_ID = '1054956162749-7qi9cm0g9kjvpc1lb0k7mnv03bum22tc.apps.googleusercontent.com';
+      var CLIENT_ID = '1097901046584-bpq3jbculh4a2qeqig2senh5b03593dh.apps.googleusercontent.com';
       var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
       var SCOPES = 'https://www.googleapis.com/auth/drive';
       var pickerApiLoaded = true;
-      var API_KEY = 'AIzaSyA4JHkRoUFXBSE18VNCclgFcYlTc_IE99A';
+      var API_KEY = 'AIzaSyCj3juSXHpZPla8NXqDvIHRRn-ed5XGtvo';
       var PATH="https://www.googleapis.com/drive/v3/files/"
       var q="?alt=media&key=";
       var oauthToken;
